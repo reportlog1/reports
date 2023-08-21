@@ -1,1 +1,0 @@
-import{_ as c,r,o as t,c as o,w as s,a as _,b as l,d as m}from"./index-3a25ec55.js";const i={};function p(a,n){const e=r("el-main");return t(),o(e,null,{default:s(()=>[_("Инфо пользователя")]),_:1})}const u=c(i,[["render",p]]),d={__name:"UserView",setup(a){return(n,e)=>(t(),l("main",null,[m(u)]))}};export{d as default};
